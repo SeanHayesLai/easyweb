@@ -18,4 +18,10 @@
 			</plugin>
 		</plugins>
 	</build>
+	<modules>
+		<module>easyweb-fom</module>
+		<module>easyweb-rpt</module>
+		<module>easyweb-mgr</module>
+		<module>easyweb-showcase</module>
+	</modules>
 </project>

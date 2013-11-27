@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="easyweb-showcase"
+  id="myeclipse.1385529852101"
+  context-root="/easyweb-showcase"
+  j2ee-spec="6.0"
+  archive="easyweb-showcase.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
